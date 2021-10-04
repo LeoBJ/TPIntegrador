@@ -1,0 +1,78 @@
+#encabezado{
+    height: 80px;
+    width: 100%;
+    color: white;
+}
+
+
+#fondo{background-image: 
+    linear-gradient(
+        rgba(0, 0, 0, 0.7), 
+        rgba(0, 0, 0, 0.7)
+      ),
+    url(imagenes_integrador_front/ba1.jpg);
+    background-position: center;
+
+height: 700px;
+width: 100%;
+}
+
+#tex_fondo
+{
+color: white;
+text-align: right;
+; 
+}
+
+#titulo
+{text-align: center;}
+
+#fotos
+{text-align: center;
+    padding: 50px;
+    max-width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#honolulu
+{
+    color: white;
+    background-color: rgb(39, 38, 38);
+    height:100%;
+}
+
+#form
+{
+    max-width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#pie
+{
+    color: white;
+    background-color: #332F6A;
+}
+
+.nav-link 
+    {
+        color:white;
+    }
+
+    .btn-outline-primary {
+        background-color: transparent;
+        border-color: white;
+        box-shadow: none;
+        color:white
+    }
+
+#botonfinal
+{
+    background-color: #10ed0c;
+	border-color: white;
+	color:#FFFFFF;
+    max-width: 575px;
+    margin-left: auto;
+    margin-right: auto;
+}
